@@ -36,3 +36,5 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 
 ![alt text](https://github.com/singhbir/Traffic_Sign_Classifier-/blob/master/traffic2.PNG)
 
+![alt text](https://github.com/singhbir/Traffic_Sign_Classifier-/blob/master/traffic3.PNG)
+
